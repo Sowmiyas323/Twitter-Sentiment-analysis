@@ -1,1 +1,2 @@
 # Twitter-Sentiment-analysis
+My project on Twitter sentiment analysis aims to analyze public sentiment towards specific topics or events on Twitter. Using natural language processing techniques, it interprets and categorizes tweets as positive, negative, or neutral, providing insights into public opinion trends in real-time. This analysis can be valuable for businesses, researchers, and policymakers to gauge public perception and sentiment on various issues.
